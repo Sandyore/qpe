@@ -1,0 +1,186 @@
+.box1 {
+    height: auto;
+    width: 700px;
+    float:left;
+    margin-top: 10rem;
+    color: #193149;
+
+}
+
+.title1 {
+    font-size: 2.5rem;
+    text-align: center;
+    float: left;
+    line-height: 1.3;
+    padding-top: 1rem;
+    padding-bottom: 0rem;
+    margin-bottom: 0rem;
+}
+.title2 {
+    font-size: 1.5rem;
+    float: left;
+    padding-left: 4rem;
+    margin-bottom: 0rem;
+    color: rgb(82, 77, 77);
+
+}
+.title3 {
+    float: left;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-top: 0.5rem;
+    padding-left: 8rem;
+    padding-right: 5rem;
+    margin-bottom: 0.5rem;
+    color: rgb(165, 165, 165);
+}
+.button {
+    float: inline-start;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    color: #fff;
+    background: #193149;
+}
+
+
+
+.box2 {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    padding: 2rem;
+    min-height: 80vh;
+    background-image: url(img/news.png);
+    background-position: right;
+    background-size: 30rem;
+    background-repeat: no-repeat;
+}
+.box2 p {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: rgb(57, 126, 182);
+    padding-left: 4.5rem;
+    margin-bottom: 0.5rem;
+}
+.box2 img {
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+}
+.box2 h3 {
+    text-align: left;
+    margin-left: 0rem;
+    margin-top: 0rem;
+    float: center;
+    padding-left: 4.5rem;
+}
+.box2 a{
+    color: #58a9d4;text-decoration: none;
+    display: inline-block;
+    padding-left: 4.5rem;
+    font-weight: 800;
+    font-size: 1.3em;
+}
+.htmleaf-demo a:hover{opacity: 0.6;}
+.htmleaf-demo a.current{background:#1d7db1;color: #fff; }
+
+
+.box3 {
+    margin: 0;
+    margin-left: 5rem;
+    background-color: rgb(255, 255, 255);
+    min-height: 100vh;
+    background-image: url(img/info.png);
+    background-position: left;
+    background-size: 20rem;
+    background-repeat: no-repeat;
+}
+.box3 p {
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: right;
+    color: rgb(57, 126, 182);
+    padding-right: 5.5rem;
+    margin-bottom: 0.5rem;
+}
+.box3 img {
+    position: absolute;
+    right: 20px;
+    margin-bottom: 2rem;
+
+}
+.box3 h1 {
+    text-align: left;
+    line-height: 2.5rem;
+    font-size: 1em;
+    font-weight: 500;
+    margin-left: 30rem;
+    margin-right: 5rem;
+    margin-top: 5rem;
+    float: center;
+    padding-left: 4.5rem;
+}
+
+.box4 {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    padding: 2rem;
+    min-height: 80vh;
+    background-image: url(img/skill.png);
+    background-position: right;
+    background-size: 30rem;
+    background-repeat: no-repeat;
+}
+.box4 p {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: rgb(57, 126, 182);
+    padding-left: 4.5rem;
+    margin-bottom: 0.5rem;
+}
+.box4 img {
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+}
+
+.box5 {
+    margin: 0;
+    margin-left: 5rem;
+    background-color: rgb(255, 255, 255);
+    background-image: url(img/1.jpg);
+    background-size: 1100px 660px;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.box5 p {
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: right;
+    color: rgb(57, 126, 182);
+    padding-right: 5.5rem;
+    margin-bottom: 0.5rem;
+}
+.box5 img {
+    position: absolute;
+    right: 20px;
+    margin-bottom: 2rem;
+
+}
+
+.boox6 {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+    min-height: 100vh;
+    height: auto;
+}
+.box6 h1 {
+    text-align: center;
+    line-height: 3rem;
+    font-size: 1.2em;
+    font-weight: 500;
+    color: rgb(57, 126, 182);
+}
